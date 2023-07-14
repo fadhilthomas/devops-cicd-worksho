@@ -1,1 +1,1 @@
-# devops-cicd-worksho
+# devops-cicd-workshop
